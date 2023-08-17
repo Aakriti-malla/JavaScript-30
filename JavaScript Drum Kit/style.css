@@ -7,8 +7,9 @@ html {
 
 html {
   font-size: 10px;
-  background-image: url("./Images/Background.jpg") bottom center;
+  background-image: url("./Background.jpg");
   background-size: cover;
+  background-position: center;
 }
 
 .keys {
@@ -35,7 +36,7 @@ html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
+  border-color: #8cff00;
   box-shadow: 0 0 1rem #ffc600;
 }
 
@@ -48,5 +49,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
-  color: #ffc600;
+  color: #9dff00;
 }
