@@ -1,3 +1,3 @@
 # JavaScript-30
 
-- [ ] JavaScript Drum Kit
+- [x] JavaScript Drum Kit
